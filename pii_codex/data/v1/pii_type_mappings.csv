@@ -37,7 +37,7 @@ Credit Card Number,CREDIT_CARD_NUMBER,Financial Information,Directly PII,Stand A
 Credit Score,CREDIT_SCORE,Financial Information,Linkable,Not Mentioned,NON_PHI,Semi-Identifiable
 American Bankers Association Routing Number (Financial Accounts),ABA_ROUTING_NUMBER,Financial Information,Directly PII,Stand Alone PII,PHI,Identifiable
 International Banking Account Number (Financial Accounts),INTERNATIONAL_BANKING_ACCOUNT_NUMBER,Financial Information,Directly PII,Stand Alone PII,PHI,Identifiable
-United States Bank Account Number (Financial Accounts),US_BANK_ACCOUNT_NUMBER,Financial Information,Directly PII,Stand Alone PII,PHI,Identifiable
+United States Bank Account Number (Financial Accounts),US_BANK_NUMBER,Financial Information,Directly PII,Stand Alone PII,PHI,Identifiable
 Digital Signature,DIGITAL_SIGNATURE,Financial Information,Linkable,Not Mentioned,NON_PHI,Semi-Identifiable
 Medical History,MEDICAL_HISTORY,Secure Identifiers,Linkable,Linkable,PHI,Semi-Identifiable
 DNA Profile,DNA_PROFILE,Secure Identifiers,Linkable,Stand Alone PII,PHI,Semi-Identifiable
