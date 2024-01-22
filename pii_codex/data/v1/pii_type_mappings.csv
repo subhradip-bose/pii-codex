@@ -30,7 +30,7 @@ Social Network Profile,SOCIAL_NETWORK_PROFILE,Community Interaction,Linkable,Not
 Picture Face,PICTURE_FACE,Community Interaction,Directly PII,Stand Alone PII,PHI,Identifiable
 Mother’s Maiden Name,MOTHERS_MAIDEN_NAME,Financial Information,Directly PII,Linkable,NON_PHI,Identifiable
 Handwriting Sample,HANDWRITING_SAMPLE,Financial Information,Linkable,Not Mentioned,NON_PHI,Semi-Identifiable
-Driver’s License Number,US_DRIVERS_LICENSE_NUMBER,Financial Information,Directly PII,Stand Alone PII,PHI,Identifiable
+Driver’s License Number,US_DRIVER_LICENSE,Financial Information,Directly PII,Stand Alone PII,PHI,Identifiable
 Vehicle Registration Number,VEHICLE_REGISTRATION_NUMBER,Financial Information,Directly PII,Not Mentioned,PHI,Identifiable
 License Plate Number,LICENSE_PLATE_NUMBER,Financial Information,Directly PII,Not Mentioned,PHI,Identifiable
 Credit Card Number,CREDIT_CARD_NUMBER,Financial Information,Directly PII,Stand Alone PII,PHI,Identifiable
